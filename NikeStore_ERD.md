@@ -1,3 +1,4 @@
+'''mermaid 
 erDiagram
 CUSTOMER || --o{PRODUCT: Chooses
 CUSTOMER { 
@@ -20,6 +21,7 @@ PRODUCT||--o{INVENTORY:Count
 INVENTORY {
     string TotalRemaining
     string TotalSold
-}
+} 
+'''
     
 
