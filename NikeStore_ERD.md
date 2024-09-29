@@ -1,4 +1,4 @@
-'''mermaid 
+```mermaid 
 erDiagram
 CUSTOMER || --o{PRODUCT: Chooses
 CUSTOMER { 
@@ -22,6 +22,6 @@ INVENTORY {
     string TotalRemaining
     string TotalSold
 } 
-'''
+```
     
 
