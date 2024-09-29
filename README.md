@@ -8,7 +8,7 @@ Description of repository: The repository I created is specifically for this ass
 Description of steps to clone repository: I created a new folder under documnets in the File Explorer. I clicked on Clone Repository from Github and stored it in the created file.
 
 
-#About Me:
+# About Me:
 ### _My Interests_
   I really enjoy gaming and spending time with my friends and family. 
 ### _Websites I reccomend_ 
