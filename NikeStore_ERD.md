@@ -1,6 +1,6 @@
 ```mermaid
 erDiagram
-PRODUCT {
+Nike Shoes {
 }
 CUSTOMER {
 }
