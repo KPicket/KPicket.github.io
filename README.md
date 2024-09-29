@@ -10,7 +10,7 @@ Description of steps to clone repository: I created a new folder under documnets
 
 # About Me:
 ### _My Interests_
-  I really enjoy gaming and spending time with my friends and family. 
+  I really enjoy gaming, spending time with my family, and fur babies. I love to be outside and go for walks with my dog and tend to the garden.
 ### _Websites I reccomend_ 
   * [Youtube] (https://www.youtube.com) - I enjoy it because it is a huge library of videos. You have access to so many videos that can assist you in a recipe, fixing items, or just watching/ listening to music videos. 
   * [WRAL] (https://www.wral.com) - This website is great for staying up to date on local news and weather.
