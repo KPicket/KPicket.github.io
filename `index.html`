@@ -1,0 +1,21 @@
+`<!DOCTYPE html>`
+<html>
+ <head>
+  <title>My Personal Introduction</title>
+  <style>
+  body{
+   background-color:AF9FA0;
+  }
+    h1{
+     color:88A482;
+    }
+     p{
+      color:25526F;
+     }
+</style>
+</head>
+<body>
+  <h1>My name is Kaitlin</h1>
+   <p>I am working towards a new degree. I have been enjoying learning about code and looking forward to utilizing it more. I like to spend time with my animals, play video games, and cooking.</p>
+</body>
+</html>
